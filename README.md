@@ -1,4 +1,4 @@
-#Guess The Celebrity
+#Guess-The-Celebrity
 
 A simple android app that allows the user to guess the name of the celebrity based on their picture.
 
